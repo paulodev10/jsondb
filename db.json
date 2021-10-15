@@ -1,10 +1,12 @@
-[
-  {
-    "nombre": "goku",
-    "raza": "sayajin"
-  },
-  {
-    "nombre": "vegeta",
-    "raza": "sayajin"
-  }
-]
+{
+  "personajes": [
+    {
+      "nombre": "goku",
+      "raza": "sayajin"
+    },
+    {
+      "nombre": "vegeta",
+      "raza": "sayajin"
+    }
+  ]
+}
