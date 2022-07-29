@@ -7,6 +7,14 @@
     {
       "nombre": "vegeta",
       "raza": "sayajin"
+    },
+    {
+      "nombre": "krillin",
+      "raza": "humano"
+    },
+    {
+      "nombre": "piccolo",
+      "raza": "namekusein"
     }
   ]
 }
